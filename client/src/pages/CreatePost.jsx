@@ -43,13 +43,15 @@ const CreatePost = () => {
   
   const handleSubmit = async (e) => {
     e.preventDefault();
+    //console.log(form.prompt)
+    //console.log(form.photo)
 
     if(form.prompt && form.photo) {
       setLoading(true);
       try {
         const response = await fetch("http://localhost:8080/api/v1/post", {
           method: "POST",
-          header: {
+          headers: {
             'Content-Type': 'application/json'
           },
           body: JSON.stringify({ ...form }),

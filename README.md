@@ -4,12 +4,6 @@
 
 Take a look at the app [here](https://incomparable-toffee-e81398.netlify.app)
 
-#### Client Side:
-
-
-#### Server Side:
-The **REST API**, and database, were built using **JavaScript**, **Node.js**, **Express**, and **MongoDB**.
-
 # Description
  A clone of the OpenAI **DALL•E 2** app, built using the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS), Tailwind CSS, the OpenAI API, and Cloudinary.
 

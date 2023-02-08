@@ -5,7 +5,7 @@
 Take a look at the app [here](https://incomparable-toffee-e81398.netlify.app)
 
 # Description
- A clone of the OpenAI **DALL•E 2** app, built using the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS), Tailwind CSS, the OpenAI API, and Cloudinary.
+ A clone of OpenAI's **DALL•E 2** app, built using the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS), Tailwind CSS, the OpenAI API, and Cloudinary.
 
 <kbd>
 <img src="readme_images/img1.png"/>

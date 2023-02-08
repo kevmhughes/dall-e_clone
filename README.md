@@ -1,8 +1,8 @@
 # DALL•E  2 Clone
 
-Take a look at the app [here](https://incomparable-toffee-e81398.netlify.app)
-
 ### This application is a full stack project built using the **MERN** stack.
+
+Take a look at the app [here](https://incomparable-toffee-e81398.netlify.app)
 
 #### Client Side:
 

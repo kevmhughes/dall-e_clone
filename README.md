@@ -2,7 +2,7 @@
 
 ### This application is a full stack project built using the **MERN** stack.
 
-Take a look at the app [here](https://incomparable-toffee-e81398.netlify.app)
+Take a look at the app [here](https://dalle2-clone.netlify.app)
 
 # Description
  A clone of OpenAI's **DALL•E 2** app, built using the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS), Tailwind CSS, the OpenAI API, and Cloudinary.

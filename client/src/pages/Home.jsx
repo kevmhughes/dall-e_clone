@@ -80,8 +80,8 @@ const Home = () => {
         <div>
           {loading ? (
             <p className="mt-2 text-[#666e75] text-[16px] max-w[500px] bg-lime-300 p-4 rounded-lg">
-              We are using free hosting, so please be patient while the images
-              are being retrieved from the database.
+              This app is using free hosting, so please be patient while the
+              images are being retrieved from the database.
             </p>
           ) : (
             <p className="mt-2 text-[#666e75] text-[16px] max-w[500px]">
